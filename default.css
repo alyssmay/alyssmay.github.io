@@ -1,0 +1,58 @@
+body {
+    background-color: papayawhip;
+  }
+  
+  #titles {
+    color: pink;
+    text-align: center;
+    font-family: serif, palegreen;
+    font-size: 40px;
+    background-color: rbga(255, 99, 71, 0.2);
+    border: 2px rgb(135, 225, 174);
+    border-radius: 5px;
+
+  }
+
+  
+  p {
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 20px;
+    color:whitesmoke;
+    border-style: left;
+    border-color: rgb(136 ,225 ,174);
+  }
+
+  a:link {
+      color:black;
+      text-decoration: underline;
+  }
+
+  a:visited {
+      color:grey;
+  }
+
+  a:hover {
+      color: yellow;
+      text-decoration: underline;
+  }
+
+  a:active {
+      color: paleturquoise;
+  }
+
+  ul {
+      list-style-type: circle;
+      background: #3399ff;
+      padding: 20px;
+  }
+
+  ul li {
+    background: #cce5ff;
+    margin: 5px;
+  }
+
+  #materialicons {
+      color: palevioletred;
+      size: 20px;
+  }
