@@ -5,7 +5,7 @@ body {
   #titles {
     color: pink;
     text-align: center;
-    font-family: serif, palegreen;
+    font-family: serif;
     font-size: 40px;
     background-color: rbga(255, 99, 71, 0.2);
     border: 2px rgb(135, 225, 174);
@@ -21,6 +21,11 @@ body {
     color:whitesmoke;
     border-style: left;
     border-color: rgb(136 ,225 ,174);
+  }
+
+  table, th, td {
+    border: 1px #3399ff ;
+    background-color: palevioletred;
   }
 
   a:link {
